@@ -1,0 +1,8 @@
+name=CROCKET
+author=Cpucat
+description=Crank Rocket Game
+bundleID=com.cpucat.crocket
+version=1.0
+buildNumber=4
+imagePath=launcherassets/images/
+launchSoundPath=launcherassets/audio/startup

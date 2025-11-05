@@ -1,0 +1,1 @@
+deathQuoteStrings = {"*You are dead, Not big soup rice*", "It went so well, until it didn't", "Someone should remove\nthat debris", "Failure Cause: Hit by Debris", "There goes another one", "Can you hear me, Major Tom?","You have died.","Game Over!"}
